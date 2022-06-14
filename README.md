@@ -1,7 +1,7 @@
-#Some dapplet ideas
+#Some dapplet ideas#
 Today we're at the very beginning of our journey. The technology has been developed, but application options are still emerging.
 
-##We see a lot of development ideas:
+##We see a lot of development ideas:##
 Public Stickers - a dapplet that allows users to place stickers directly on public content
 
 Total Comments - a universal dapplet that allows its users to annotate the content of any website 
