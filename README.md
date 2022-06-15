@@ -1,3 +1,6 @@
+![](https://github.com/dapplets/dapplets-ideas/blob/main/dapplet-ideas.png)
+
+
 # Some dapplet ideas
 Today we're at the very beginning of our journey. The technology has been developed, but application options are still emerging.
 
@@ -33,5 +36,3 @@ We invite developers all over the world to become a part of our community and co
 **Crowdfunding** - through the smart-contracts, just in time and place where it is needed.
 
 **Decentralized quests and games** - a dapplets making possible gamification for the sites like Wikipedia. 
-
-
